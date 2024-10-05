@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1, 0, 0, 1, -259.315918, -82.505753)">
+    <title>DataBase</title>
+    <path d="M 399.475 222.399 L 459.635 222.399 L 459.635 263.249 L 459.603 263.249 C 459.624 263.454 459.635 263.661 459.635 263.868 C 459.635 271.166 446.168 277.082 429.555 277.082 C 412.942 277.082 399.475 271.166 399.475 263.868 C 399.475 263.661 399.486 263.454 399.507 263.249 L 399.475 263.249 Z" style="fill: rgb(216, 216, 216); stroke: rgb(119, 119, 119);"/>
+    <path d="M 429.535 265.559 C 413.296 265.559 400.062 259.905 399.475 252.835 L 399.475 229.324 L 459.635 229.324 L 459.595 252.835 C 459.008 259.905 445.775 265.559 429.535 265.559 Z" style="fill: rgb(216, 216, 216); stroke: rgb(119, 119, 119);"/>
+    <path d="M 429.535 251.205 C 413.296 251.205 400.062 245.551 399.475 238.481 L 399.475 222.399 L 459.635 222.399 L 459.595 238.481 C 459.008 245.551 445.775 251.205 429.535 251.205 Z" style="fill: rgb(216, 216, 216); stroke: rgb(119, 119, 119);"/>
+    <circle style="fill: rgb(216, 216, 216); stroke: rgb(119, 119, 119); stroke-width: 1.38957px;" cx="327.342" cy="148.693" r="30.08" transform="matrix(0.999997, 0, 0, 0.439292, 102.214561, 157.872269)"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 10.9px; font-weight: 700; white-space: pre;" x="393.883" y="197.438">Base de Dados</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 10.9px; font-weight: 700; white-space: pre;" x="553.166" y="197.438">Servidor</text>
+  </g>
+  <line style="stroke: rgb(119, 119, 119);" x1="223.5600586184383" y1="241.38119792016704" x2="252.56815062884465" y2="241.38119792016704"/>
+  <line style="stroke: rgb(119, 119, 119);" x1="292.071" y1="209.08" x2="321.079" y2="209.08" transform="matrix(0, 1, -1, 0, 515.655014, -97.49501)"/>
+  <rect x="119.283" y="214.957" width="104.433" height="53.175" style="fill: rgb(216, 216, 216); stroke: rgb(119, 119, 119);" rx="5.098" ry="5.098"/>
+  <rect x="252.989" y="214.957" width="104.433" height="53.175" style="fill: rgb(216, 216, 216); stroke: rgb(119, 119, 119);" rx="5.098" ry="5.098"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 10.9px; font-weight: 700; white-space: pre;" x="125.657" y="245.175">Camada Interativa</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 10.9px; font-weight: 700; white-space: pre;" x="259.704" y="245.175">Camada Funcional</text>
+  <line style="stroke: rgb(119, 119, 119);" x1="152.902" y1="282.636" x2="181.91" y2="282.636" transform="matrix(0, 1, -1, 0, 450.041985, 115.229988)"/>
+  <line style="stroke: rgb(119, 119, 119);" x1="292.071" y1="282.636" x2="321.079" y2="282.636" transform="matrix(0, 1, -1, 0, 589.210999, -23.939026)"/>
+  <rect x="119.283" y="297.14" width="104.433" height="53.175" style="stroke: rgb(119, 119, 119); fill: rgb(255, 255, 255);" rx="5.098" ry="5.098"/>
+  <rect x="252.989" y="297.14" width="104.433" height="53.175" style="stroke: rgb(119, 119, 119); fill: rgb(255, 255, 255);" rx="5.098" ry="5.098"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13.3px; font-weight: 700; text-anchor: middle; white-space: pre;" transform="matrix(0.678775, 0, 0, 0.678775, 193.052109, 110.82312)" x="164.697998046875" y="310.47601318359375"><tspan>Funcionalidades do<tspan x="164.697998046875" dy="1em">​</tspan> sistema</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13.3px; font-weight: 700; text-anchor: middle; white-space: pre;" transform="matrix(0.678775, 0, 0, 0.678775, 58.550213, 110.82312)" x="164.697998046875" y="310.47601318359375">Demonstração <tspan x="164.697998046875" dy="1em">​</tspan>da interface gráfica<tspan x="164.697998046875" dy="1em">​</tspan></text>
+  <rect x="281.844" y="142.829" width="30.12" height="51.747" style="fill: rgb(216, 216, 216); stroke: rgb(119, 119, 119);"/>
+  <path d="M 311.964 142.829 L 330.413 125.379 L 330.413 176.914 L 311.964 194.576 L 311.964 142.829 Z" style="fill: rgb(216, 216, 216); stroke: rgb(119, 119, 119); stroke-linejoin: round;"/>
+  <path d="M 303.02 125.917 L 330.413 125.379 L 311.964 142.829 L 281.844 142.829 L 303.02 125.917 Z" style="fill: rgb(216, 216, 216); stroke: rgb(119, 119, 119); stroke-linejoin: round;"/>
+  <line style="stroke: rgb(119, 119, 119);" x1="199.441" y1="164.845" x2="281.844" y2="164.845"/>
+  <line style="stroke: rgb(119, 119, 119);" x1="104.433" y1="164.845" x2="139.753" y2="164.845" transform="matrix(-1, 0, 0, -1, 244.186005, 329.690002)"/>
+  <rect y="133.453" width="104.433" height="53.175" style="stroke: rgb(119, 119, 119); fill: rgb(255, 255, 255);" rx="5.098" ry="5.098"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13.3px; font-weight: 700; text-anchor: middle; white-space: pre;" transform="matrix(0.678775, 0, 0, 0.678775, -60.90419, -52.459663)" x="164.697998046875" y="310.47601318359375">Armazenamento<tspan x="164.697998046875" dy="1em">​</tspan> de dados</text>
+  <line style="stroke: rgb(119, 119, 119);" x1="330.413" y1="164.845" x2="365.733" y2="164.845" transform="matrix(-1, 0, 0, -1, 696.145996, 329.690002)"/>
+  <rect y="133.453" width="104.433" height="53.175" style="stroke: rgb(119, 119, 119); fill: rgb(255, 255, 255);" rx="5.098" ry="5.098" x="365.733"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13.3px; font-weight: 700; text-anchor: middle; white-space: pre;" transform="matrix(0.678775, 0, 0, 0.678775, 305.982117, -62.328167)" x="164.697998046875" y="310.47601318359375">Controlo de<tspan x="164.697998046875" dy="1em">​</tspan>concorrência e<tspan x="164.697998046875" dy="1em">​</tspan>atualização e obtenção<tspan x="164.697998046875" dy="1em">​</tspan>de informações</text>
+  <rect x="-17.416" y="85.888" width="517.416" height="312.362" style="fill: rgba(216, 216, 216, 0);"/>
+</svg>
